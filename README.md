@@ -3,4 +3,6 @@
 This is the free version, includes 5% of the total features in the original autocatcher...
 
 ## Showcase
-[![Link](/SCxrhOK.png)](https://www.youtube.com/watch?v=k-jwhHXKRUY)
+<a href="https://www.youtube.com/watch?v=k-jwhHXKRUY">
+    <img src="/SCxrhOK.png" alt="Link" width="550" height="300">
+</a>
