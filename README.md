@@ -2,6 +2,7 @@
 
 This is the free version, includes only **5%** of the total features in the original autocatcher...
 
+> 150  Stars = Release of paid version
 ## Showcase
 <a href="https://www.youtube.com/watch?v=k-jwhHXKRUY">
     <img src="/SCxrhOK.png" alt="Link" width="550" height="300">
