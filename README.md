@@ -6,3 +6,6 @@ This is the free version, includes 5% of the total features in the original auto
 <a href="https://www.youtube.com/watch?v=k-jwhHXKRUY">
     <img src="/SCxrhOK.png" alt="Link" width="550" height="300">
 </a>
+
+## Support & Premium Version
+Visit [Broskie.XYZ](https://broskie.xyz/)
