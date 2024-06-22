@@ -1,6 +1,6 @@
 # Broskie
 
-This is the free version, includes 5% of the total features in the original autocatcher...
+This is the free version, includes only **5%** of the total features in the original autocatcher...
 
 ## Showcase
 <a href="https://www.youtube.com/watch?v=k-jwhHXKRUY">
